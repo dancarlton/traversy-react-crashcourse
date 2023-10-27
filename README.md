@@ -1,3 +1,8 @@
+*** Project is from Traversy Media's Crash Course on React ***
+Link here: https://www.youtube.com/watch?v=w7ejDZ8SWv8&ab_channel=TraversyMedia
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
