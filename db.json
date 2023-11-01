@@ -11,6 +11,12 @@
       "text": "Meeting at School",
       "day": "Feb 6th at 1:30",
       "reminder": true
+    },
+    {
+      "text": "buy book for japan",
+      "day": "Friday",
+      "reminder": true,
+      "id": 3
     }
   ]
 }
